@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/christopher-dodge/zeus-weather-app",
   "author": "christopher-dodge",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
